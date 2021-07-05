@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "899625405439",
+    "firebase_url": "https://messenger-dc91c.firebaseio.com",
+    "project_id": "messenger-dc91c",
+    "storage_bucket": "messenger-dc91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899625405439:android:c149586745c95df960b5ca",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899625405439-1iddj2bkl8abi507tumjennsa2o2iofe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger",
+            "certificate_hash": "715c6fd3cd243bd925d615696f998456e7583613"
+          }
+        },
+        {
+          "client_id": "899625405439-cej25a6f8k7098u91k8nl1e1up9mdpv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7TSRWQGvV8lKut4SqLfWCJa1Lxz6qb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899625405439-cej25a6f8k7098u91k8nl1e1up9mdpv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899625405439:android:a113943dae4f23c960b5ca",
+        "android_client_info": {
+          "package_name": "com.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899625405439-cej25a6f8k7098u91k8nl1e1up9mdpv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7TSRWQGvV8lKut4SqLfWCJa1Lxz6qb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899625405439-cej25a6f8k7098u91k8nl1e1up9mdpv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
